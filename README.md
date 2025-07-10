@@ -6,7 +6,7 @@ This is a console-based productivity tool built in Python that allows users to a
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add tasks with a title, deadline, and priority (High / Medium / Low)
 - View tasks automatically sorted by urgency (date and priority)
@@ -17,7 +17,7 @@ This is a console-based productivity tool built in Python that allows users to a
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3**
 - **Object-Oriented Programming (OOP)**
