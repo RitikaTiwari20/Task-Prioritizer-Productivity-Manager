@@ -26,5 +26,3 @@ This is a console-based productivity tool built in Python that allows users to a
 - **Command-Line Interface (CLI)**
 
 ---
-
-## 📂 File Structure
